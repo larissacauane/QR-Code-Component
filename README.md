@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ## 💻 Projeto
-Este projeto é um desafio do <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Front End Mentor</a>. É possível acessar o projeto através <a href="https://stupefied-hugle-fcee14.netlify.app/">deste link.</a> 
+Este projeto é um desafio do <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">Front End Mentor</a>. É possível acessar o projeto através <a href="https://determined-shockley-0dc257.netlify.app/">deste link.</a> 
 
 
 ## ⚙ Como executar
